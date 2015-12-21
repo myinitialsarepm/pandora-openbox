@@ -1,0 +1,9 @@
+[submodule "pandora-rc-openbox"]
+	path = pandora-rc-openbox
+	url = ./pandora-rc-openbox/
+[submodule "pandora-rc-tint2"]
+	path = pandora-rc-tint2
+	url = ./pandora-rc-tint2/
+[submodule "pandora-theme"]
+	path = pandora-theme
+	url = ./pandora-theme/
