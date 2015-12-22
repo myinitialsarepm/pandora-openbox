@@ -1,5 +1,5 @@
 #!/bin/sh
 PANDORA_FOLDER=$(cd $(dirname $0) && pwd)
-ln -fs $PANDORA_FOLDER/pandora-rc-openbox ~/.config/openbox
-ln -fs $PANDORA_FOLDER/pandora-rc-tint2 ~/.config/tint2
+ln -nfs $PANDORA_FOLDER/pandora-rc-openbox ~/.config/openbox
+ln -nfs $PANDORA_FOLDER/pandora-rc-tint2 ~/.config/tint2
 sudo cp -r $PANDORA_FOLDER/pandora-theme /usr/share/themes/pandora-openbox
