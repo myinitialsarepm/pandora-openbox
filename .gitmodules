@@ -1,9 +1,9 @@
 [submodule "pandora-rc-openbox"]
 	path = pandora-rc-openbox
-	url = ./pandora-rc-openbox/
+	url = https://github.com/myinitialsarepm/pandora-rc-openbox.git
 [submodule "pandora-rc-tint2"]
 	path = pandora-rc-tint2
-	url = ./pandora-rc-tint2/
+	url = https://github.com/myinitialsarepm/pandora-rc-tint2.git
 [submodule "pandora-theme"]
 	path = pandora-theme
-	url = ./pandora-theme/
+	url = https://github.com/myinitialsarepm/pandora-theme.git
